@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Profile page</title>
-    <link>https://msmith.online/</link>
+    <link>http://msmith.online/</link>
     <description>Recent content on Profile page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://msmith.online/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://msmith.online/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://msmith.online/about/</link>
+      <link>http://msmith.online/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msmith.online/about/</guid>
+      <guid>http://msmith.online/about/</guid>
       <description>About me Hello,
 My name is Martin Smith, I am currently a software engineer student at Holberton School (Soon to be looking for work) developing my skills across the technical stack: front-end, back-end, database, DevOps, and low level. Prior to that, I was a 3D generalist with experience in using Maya, Houdini and other creative application to create digital media content, for games and small film projects.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://msmith.online/contact/</link>
+      <link>http://msmith.online/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msmith.online/contact/</guid>
+      <guid>http://msmith.online/contact/</guid>
       <description>Contacts 📱 Primary: 1+‪(415) 371-9027‬
 Secondary: 1+(650)743-8940
 📬 mcodesmith@gmail.com</description>
@@ -33,10 +33,10 @@ Secondary: 1+(650)743-8940
     
     <item>
       <title></title>
-      <link>https://msmith.online/projects/</link>
+      <link>http://msmith.online/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msmith.online/projects/</guid>
+      <guid>http://msmith.online/projects/</guid>
       <description>Projects While you can look through my repository at the many projectect I&amp;rsquo;ve coded. These are a few of the one I personally proud of.
 IdeaDog Back-end, Front-end
 IdeaDog is a social web application for sharing ideas. Front-end of the application is built in React, with TypeScript, while the back-end runs on Rust.

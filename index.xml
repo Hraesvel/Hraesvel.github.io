@@ -38,9 +38,9 @@ Secondary: 1+(650)743-8940
       
       <guid>https://msmith.online/projects/</guid>
       <description>Projects While you can look through my repository at the many projects I&amp;rsquo;ve produced. These are a few of the one I personally proud of.
-IdeaDog Back-end, Front-end
-IdeaDog is a social web application for sharing ideas. Front-end of the application is built in React, with TypeScript, while the back-end runs on Rust.
-My task was to create the back-end while my partner Brennan D Baraban handled the front-end.</description>
+IdeaDog &amp;ndash;Server&amp;ndash; IdeaDog is a social web application for sharing ideas. Front-end of the application is built in React, with TypeScript, while the back-end runs on Rust.
+My task was to create the back-end while my partner Brennan D Baraban handled the front-end.
+AirBnB Clone This project is a Simple clone of AirBnB and is also the accumulative produced of what I&amp;rsquo;ve learn while a studying at the Holberton School.</description>
     </item>
     
   </channel>

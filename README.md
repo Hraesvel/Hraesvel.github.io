@@ -1,1 +1,0 @@
-# ostoyae.github.io

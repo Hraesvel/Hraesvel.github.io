@@ -3,32 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://msmith.online/about/</loc>
+    <loc>http://msmith.online/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://msmith.online/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://msmith.online/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://msmith.online/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://msmith.online/contact/</loc>
+    <loc>http://msmith.online/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://msmith.online/projects/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://msmith.online/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://msmith.online/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://msmith.online/tags/</loc>
+    <loc>http://msmith.online/tags/</loc>
     <priority>0</priority>
   </url>
   

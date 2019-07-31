@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Profile page</title>
+    <title>Martin Smith</title>
     <link>https://msmith.online/</link>
-    <description>Recent content on Profile page</description>
+    <description>Recent content on Martin Smith</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://msmith.online/about/</guid>
-      <description>About me My name is Martin Smith, and I am a software engineer that had completed a nine-month coding foundations course at the Holberton School of Software Engineer; I&#39;ve developed skills across the technical stack: front-end, back-end, database, DevOps, and low level. Before that, I was a 3D generalist with experience in using Maya, Houdini and other creative application to create digital media content, for games and film projects. Interests Biking · Hiking · Tech · Rust</description>
+      <description>About me My name is Martin Smith, and I am a software engineer that has completed a nine-month coding foundations course at the Holberton School of Software Engineer; I&#39;ve developed skills across the technical stack: front-end, back-end, database, DevOps, and low level. Before that, I was a 3D generalist with experience in using Maya, Houdini and other creative application to create digital media content, for games and film projects. Interests Biking · Hiking · Tech · Rusthugo</description>
     </item>
     
     <item>
@@ -25,9 +25,21 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://msmith.online/contact/</guid>
-      <description>Contacts 📱 Primary: 1+‪(415) 371-9027‬
-Secondary: 1+(650)743-8940
+      <description>Contacts 📱 Primary: +1‪(415) 371-9027‬
+Secondary: +1(650)743-8940
 📬 mcodesmith@gmail.com</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://msmith.online/edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://msmith.online/edu/</guid>
+      <description>Education Holberton School of Software Engineering Attend: 2018 - 2019
+Completed the 9 month foundations course and currently participating in the career track, looking for a stepping stone to my dream job.
+Gnomon School of Visual Effects Attend: 2010 - 2012
+Completed a 2 year course to become a 3D generalist with a focus in 3D modeling and texturing.</description>
     </item>
     
     <item>

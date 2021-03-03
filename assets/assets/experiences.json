@@ -1,0 +1,27 @@
+{
+  "count": 2,
+  "data": [
+    {
+      "name": "Crowdability",
+      "isUTC": true,
+      "start": 1601510400000,
+      "end": 0,
+      "isCurrent": true,
+      "headline": "Software Engineer Contractor at [Crowdability](https://www.crowdability.com/)",
+      "description": "Providing backend and DevOps support for Crowdability, an education platform for individual investors",
+      "achievements": [
+        "Created a Lambda (AWS) function that invalidate old content on a Cloudfront."
+      ]
+    },
+    {
+      "name": "CG Generalist",
+      "isUTC": true,
+      "start": 1293840000000,
+      "end": 1483228800000,
+      "isCurrent": false,
+      "headline": "CG Generalist for last 6 years",
+      "description": "Worked on a series of contract jobs as a CG generalist, ranging from short films to indie game projects",
+      "achievements": []
+    }
+  ]
+}

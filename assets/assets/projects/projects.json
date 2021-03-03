@@ -1,0 +1,60 @@
+{
+  "frontend": [
+    {
+      "priority": 100,
+      "name": "Personal Website",
+      "link": "https://github.com/Ostoyae/ostoyae.github.io",
+      "description": "My Personal Website that was created using Flutter",
+      "achievements": [
+        "Build a personal website using the Flutter framework,",
+        "Design the personal website to source data such as experiences and projects from AWS-S3"
+      ],
+      "tech": [
+        "Flutter 🦋",
+        "Dart 🎯",
+        "AWS S3 📦"
+      ],
+      "image": "personalWeb.png",
+      "bucket": "projects/frontend/personal-website"
+    }
+  ],
+  "backend": [
+    {
+      "priority": 100,
+      "name": "ideaDog (server)",
+      "link": "https://github.com/Ostoyae/ideaDog_server",
+      "description": "IdeaDog is a social web application for sharing ideas.",
+      "achievements": [
+        "Prototype a backend for a social media platform using Rust and the Actix framework",
+        "Design a system where users can post ideas, and vote up or down on other users ideas",
+        "Design the overall database structure using a combination of NoSQL and Graph to handle complex relationships."
+      ],
+      "tech": [
+        "Rust 🦀",
+        "Actix ⚙",
+        "ArangoDB 🥑"
+      ],
+      "image": "ideaDog-logo.png",
+      "bucket": "projects/backend/ideadog-server"
+    },
+    {
+      "priority": 1,
+      "name": "Holberton AirBnb clone",
+      "link": "https://github.com/Ostoyae/HBNB_Airbnb",
+      "description": "This Airbnb clone project was create over six months in multiple iterations; which was designed to teach us how a web application is pieced together. Furthermore, help develop soft skills such as a collaboration through peer programming and shared Github repository as well as organization and documentation.",
+      "achievements": [
+        ""
+      ],
+      "tech": [
+        "Python 🐍",
+        "Flask",
+        "SqlAlchemy 🧪",
+        "MySql 🐬",
+        "Html & Css",
+        "Javascript/JQuery"
+      ],
+      "image": "",
+      "bucket": "projects/backend/ideadog-server"
+    }
+  ]
+}

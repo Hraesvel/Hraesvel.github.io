@@ -10,7 +10,8 @@
       "headline": "Software Engineer Contractor at [Crowdability](https://www.crowdability.com/)",
       "description": "Providing backend and DevOps support for Crowdability, an education platform for individual investors",
       "achievements": [
-        "Created a Lambda (AWS) function that invalidate old content on a Cloudfront."
+        "Created a Lambda (AWS) function that invalidated old content on a Cloudfront.",
+        "Update library of pre-existing Lambda funtions from Python 2.7 to 3."
       ]
     },
     {
@@ -19,9 +20,8 @@
       "start": 1293840000000,
       "end": 1483228800000,
       "isCurrent": false,
-      "headline": "CG Generalist for last 6 years",
-      "description": "Worked on a series of contract jobs as a CG generalist, ranging from short films to indie game projects",
-      "achievements": []
+      "headline": "Various projects",
+      "description": "Worked on a series of contract jobs as a CG generalist, ranging from short films to indie game projects"
     }
   ]
 }

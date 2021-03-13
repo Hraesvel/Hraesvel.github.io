@@ -6,13 +6,14 @@
       "link": "https://github.com/Ostoyae/ostoyae.github.io",
       "description": "My Personal Website that was created using Flutter",
       "achievements": [
-        "Build a personal website using the Flutter framework,",
-        "Design the personal website to source data such as experiences and projects from AWS-S3"
+        "Built a personal website using the Flutter framework",
+        "Created a Google Sheets CMS template to streamline the content update process",
+        "Designed the personal website to sources data such as experiences and projects content from an AWS-S3"
       ],
       "tech": [
-        "Flutter 🦋",
-        "Dart 🎯",
-        "AWS S3 📦"
+        "Flutter",
+        "Dart",
+        "AWS S3"
       ],
       "image": "personalWeb.png",
       "bucket": "projects/frontend/personal-website"
@@ -23,38 +24,72 @@
       "priority": 100,
       "name": "ideaDog (server)",
       "link": "https://github.com/Ostoyae/ideaDog_server",
-      "description": "IdeaDog is a social web application for sharing ideas.",
+      "description": "ideaDog is a social web application for sharing ideas",
       "achievements": [
-        "Prototype a backend for a social media platform using Rust and the Actix framework",
-        "Design a system where users can post ideas, and vote up or down on other users ideas",
-        "Design the overall database structure using a combination of NoSQL and Graph to handle complex relationships."
+        "Prototyped a backend using Rust and the Actix framework",
+        "Designed an API where users can post ideas and upvote/downvote ideas",
+        "Designed the overall database structure using a combination of NoSQL and Graphs to handle complex relationships"
       ],
       "tech": [
-        "Rust 🦀",
-        "Actix ⚙",
-        "ArangoDB 🥑"
+        "Rust",
+        "Actix",
+        "ArangoDB"
       ],
       "image": "ideaDog-logo.png",
       "bucket": "projects/backend/ideadog-server"
     },
     {
-      "priority": 1,
-      "name": "Holberton AirBnb clone",
+      "priority": 50,
+      "name": "AirBnb clone",
       "link": "https://github.com/Ostoyae/HBNB_Airbnb",
-      "description": "This Airbnb clone project was create over six months in multiple iterations; which was designed to teach us how a web application is pieced together. Furthermore, help develop soft skills such as a collaboration through peer programming and shared Github repository as well as organization and documentation.",
+      "description": "This Airbnb clone project was created over six months in multiple iterations",
       "achievements": [
-        ""
+        "Developed REST APIs for Users, Places and Reviews following MVC Architecture",
+        "Wrote static contents to Linux VM/NGINX web server with Python using Fabric module",
+        "Developed a console that interfaces with the backend giving headless control of the data store on a database"
       ],
       "tech": [
-        "Python 🐍",
+        "Python",
         "Flask",
-        "SqlAlchemy 🧪",
-        "MySql 🐬",
-        "Html & Css",
+        "SqlAlchemy",
+        "MySql",
+        "Html & CSS",
         "Javascript/JQuery"
       ],
       "image": "",
       "bucket": "projects/backend/ideadog-server"
+    },
+    {
+      "priority": 40,
+      "name": "Hackathon project: Spade fish",
+      "link": "https://github.com/BennettDixon/spadefish_gitapp",
+      "description": "Spade Fish is a platform where Github users can see a visualization of their most used coding\nlanguages",
+      "achievements": [
+        "Architected data-models, API gateway for the front-end and backend services in Python",
+        "Implemented Github client to request and process data to generate the metric values"
+      ],
+      "tech": [
+        "Python Flask",
+        "JavaScript",
+        "Docker",
+        "Github API"
+      ]
+    },
+    {
+      "priority": 25,
+      "name": "Simple Shell: repo",
+      "link": "https://github.com/Ostoyae/simple_shell",
+      "description": "Final project at Holberton School for low level programming which required replicating a shell",
+      "achievements": [
+        "Developed command line interpreters in C which can set up the runtime environment to run a set of simple shell commands",
+        "Implemented operations that process a user's commands and handles command arguments by dynamically allocating memory to store, split and tokenize user input"
+      ],
+      "tech": [
+        "C",
+        "Bash",
+        "Linux",
+        "Git"
+      ]
     }
   ]
 }

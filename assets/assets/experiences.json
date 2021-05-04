@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 3,
   "data": [
     {
       "name": "Crowdability",
@@ -11,7 +11,21 @@
       "description": "Providing backend and DevOps support for Crowdability, an education platform for individual investors",
       "achievements": [
         "Created a Lambda (AWS) function that invalidated old content on a Cloudfront.",
-        "Update library of pre-existing Lambda funtions from Python 2.7 to 3."
+        "Updated mission critical Lambda functions to version Python 3, and provided an automated pipeline to update and transition to the new functions."
+      ]
+    },
+    {
+      "name": "Bulb Rocket",
+      "isUTC": true,
+      "start": 1470034800000,
+      "end": 1483257600000,
+      "isCurrent": false,
+      "headline": "Softwear Engineer Contractor",
+      "description": "",
+      "achievements": [
+        "Managed a blog migration to Wordpress for Merlin News. Conducted the database migration and modified an existing theme to the clients specifications using PHP",
+        "Conducted MySQL queries to repair text errors as a result of migrating from one database to another. Added custom fields to the database as per clients' request",
+        "Imported existing blog articles for the Tycoon Report from a legacy CMS database into an existing Wordpress website"
       ]
     },
     {

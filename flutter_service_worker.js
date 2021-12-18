@@ -18,7 +18,7 @@ const RESOURCES = {
 "assets/assets/text_template/about_me.mustache": "ad0702657ff4c34d323d4d35835a943f",
 "assets/FontManifest.json": "a6462b0006236eaf0faec8a533de812f",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "314c15008d8ed9251bd9ade73000065b",
+"assets/NOTICES": "7629391c67e3f5c6d4b705d9629ade1b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttericon/lib/fonts/Brandico.ttf": "791921e9b25210e2551b6eda3f86c733",
 "assets/packages/fluttericon/lib/fonts/Elusive.ttf": "23f24df0388819e94db2b3c19841841c",
@@ -42,14 +42,18 @@ const RESOURCES = {
 "assets/static/Martin_Backend_Engineer_2021.pdf": "0a640b6a9ccaa6130e4b68850f2d28c2",
 "assets/static/Martin_Backend_Engineer_current.pdf": "f8b76837012daa67c34a249b37118209",
 "assets/static/Martin_CG_Generalist.pdf": "1bd3e2f48dfcc9dc73a98bc4a858d7dd",
+"canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
+"canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
+"canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
+"canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "6bb6d890a9c54ceb82bfe6dc5436f07f",
-"/": "6bb6d890a9c54ceb82bfe6dc5436f07f",
-"main.dart.js": "165afc73b4bfca99f86b1e91cddb8372",
+"index.html": "8c98d17d819733a03d061bf4002c57c4",
+"/": "8c98d17d819733a03d061bf4002c57c4",
+"main.dart.js": "b5b75785f1388d4446532c56c8229511",
 "manifest.json": "535ee30a5bcdd1e67e582b8dde9a4c6d",
-"version.json": "781a0fd36eca45ab2a4aa91120e5523a"
+"version.json": "a14c34b482010348feefd9f151aa6092"
 };
 
 // The application shell files that are downloaded before a service worker can
